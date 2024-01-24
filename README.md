@@ -1,6 +1,6 @@
 # Air-Fare-Revenue-Management
 
-###A brief introduction to revenue management  
+### A brief introduction to revenue management  
 
 In 1978 the Airline Deregulation Act loosened the control of airline prices, which had previously
 been strictly regulated based on standardized price and profitability targets. The passage of this act led to a
