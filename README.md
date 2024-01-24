@@ -1,4 +1,8 @@
-# Air-Fare-Revenue-Management
+# Air-Fare-Revenue-Management  
+
+### **Objective** ###
+
+The Airfare Price Movement Analyzer is a GitHub project designed to systematically monitor and analyze the movement of airfare prices based on the proximity of the observation date to the departure date. The primary goal of this project is to provide users with insights into the fluctuations, trends, and oscillations in airfare prices, enabling them to make informed decisions when planning their travels.
 
 ### **A brief introduction to revenue management**  
 
